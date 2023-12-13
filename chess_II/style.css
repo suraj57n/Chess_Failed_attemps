@@ -1,0 +1,73 @@
+/* 769656 -green*/
+/* EEEED2-white */
+.sq-width{
+    background-color: #EEEED2;
+    width: 70px;
+    height: 70px;
+    border-radius: 2px;
+
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+    grid-template-columns: repeat(8,1fr);
+    height: 560px;
+    width: 560px;
+    border-radius: 5px;
+}
+.pieceElement{
+    height: 100%;
+}
+.dad-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
+    height: 560px;
+    width: 560px;
+    border-radius: 2px;
+    overflow: hidden;
+}
+.files:nth-of-type(odd) .square:nth-of-type(even){
+    background-color: #769656;
+}
+.files:nth-of-type(even) .square:nth-of-type(odd){
+    background-color: #769656;
+}
+.ne{
+    height: 70px;
+    width: 70px;
+}
+.circle{
+    width: 75%;
+    height: 75%;
+
+    /* Adjust opacity for better visibility */
+    background-color: rgba(56, 52, 48, 0.3);
+
+    /* Maintain the circular shape and border */
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.dark{
+    background-color: #769656;
+}
+.light{
+    background-color: #EEEED2;
+}
+.rank{
+    width: 560px;
+    height: 70px;
+    display: flex;
+}
+img{
+    height: 100%;
+    
+}

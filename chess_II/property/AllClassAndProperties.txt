@@ -1,0 +1,84 @@
+ <div class="dad-container">
+        <div class="main-container">
+            <div class="file-a files">
+                <div class="square"><img src="black/rook.png" alt=""></div>
+                <div class="square"><img src="black/pawn.png" alt=""></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"><img src="white/pawn.png" alt=""></div>
+                <div class="square"><img src="white/rook.png" alt=""></div>
+            </div>
+            <div class="file-b files">
+                <div class="square"><img src="black/knight.png" alt=""></div>
+                <div class="square"><img src="black/pawn.png" alt=""></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"><img src="white/pawn.png" alt=""></div>
+                <div class="square"><img src="white/knight.png" alt=""></div>
+            </div>
+            <div class="file-c files">
+                <div class="square"><img src="black/bishop.png" alt=""></div>
+                <div class="square"><img src="black/pawn.png" alt=""></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"><img src="white/pawn.png" alt=""></div>
+                <div class="square"><img src="white/bishop.png" alt=""></div>
+            </div>
+            <div class="file-d files">
+                <div class="square"><img src="black/queen.png" alt=""></div>
+                <div class="square"><img src="black/pawn.png" alt=""></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"><img src="white/pawn.png" alt=""></div>
+                <div class="square"><img src="white/queen.png" alt=""></div>
+            </div>
+            <div class="file-e files">
+                <div class="square"><img src="black/king.png" alt=""></div>
+                <div class="square"><img src="black/pawn.png" alt=""></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"><img src="white/pawn.png" alt=""></div>
+                <div class="square"><img src="white/king.png" alt=""></div>
+            </div>
+            <div class="file-f files">
+                <div class="square"><img src="black/bishop.png" alt=""></div>
+                <div class="square"><img src="black/pawn.png" alt=""></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"><img src="white/pawn.png" alt=""></div>
+                <div class="square"><img src="white/bishop.png" alt=""></div>
+            </div>
+            <div class="file-g files">
+                <div class="square"><img src="black/knight.png" alt=""></div>
+                <div class="square"><img src="black/pawn.png" alt=""></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"><img src="white/pawn.png" alt=""></div>
+                <div class="square"><img src="white/knight.png" alt=""></div>
+            </div>
+            <div class="file-h files">
+                <div class="square"><img src="black/rook.png" alt=""></div>
+                <div class="square"><img src="black/pawn.png" alt=""></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"></div>
+                <div class="square"><img src="white/pawn.png" alt=""></div>
+                <div class="square"><img src="white/rook.png" alt=""></div>
+            </div>
+        </div>
+    </div>
